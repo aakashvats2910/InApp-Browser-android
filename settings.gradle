@@ -1,0 +1,3 @@
+rootProject.name='BrowserTry'
+include ':app'
+include ':inappbrowser'
