@@ -21,7 +21,7 @@ implementation 'com.github.aakashvats2910:InApp-Browser-android:0.1'
 ```
 
 <h3>You can call or open the Browser by simply:</h3>
-```java
+```
 LocalBrowser.setUrl(context, url)
   .setUrlViewVisibility(boolean)
   .start();
