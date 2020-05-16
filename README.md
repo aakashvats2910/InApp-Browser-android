@@ -25,9 +25,12 @@ LocalBrowser.setUrl(context, url)
 
 <h4>Different situations for Url Visibility</h4>
 
-If you set it to true:
+If the value is true:
 
 ![If it is set to true](https://i.ibb.co/02mYhNd/url-Visibility-View-True.png)
+
+If the value is false:
+![if value is false](https://ibb.co/0K3YzXc)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
