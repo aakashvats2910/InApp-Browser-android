@@ -9,12 +9,12 @@ So, in order to overcome the complexity of making a Self web-browser or going to
 [![Generic badge](https://img.shields.io/badge/Jitpack-0.1-green.svg)](https://shields.io/)
 
 <h3>The implementation of this dependency must take place like this:</h3>
-```
+```gradle
 implementation 'com.github.aakashvats2910:InApp-Browser-android:0.1'
 ```
 
 <h3>You can call or open the Browser by simply:</h3>
-```
+```java
 LocalBrowser.setUrl(context, url)
   .setUrlViewVisibility(boolean)
   .start();
