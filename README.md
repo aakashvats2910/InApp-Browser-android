@@ -10,17 +10,13 @@ So, in order to overcome the complexity of making a Self web-browser or going to
 
 <h3>The implementation of this dependency must take place like this:</h3>
 
-```
-git status
-git add
-git commit
-```
 
 ```gradle
 implementation 'com.github.aakashvats2910:InApp-Browser-android:0.1'
 ```
 
 <h3>You can call or open the Browser by simply:</h3>
+
 ```
 LocalBrowser.setUrl(context, url)
   .setUrlViewVisibility(boolean)
